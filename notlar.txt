@@ -1,0 +1,6 @@
+reset.css
+color codes
+bem model
+ölçü birimleri
+
+

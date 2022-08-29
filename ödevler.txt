@@ -1,0 +1,9 @@
+29 Ağustos
+
+Okunacaklar
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.w3schools.com/css/css3_flexbox.asp
+
+
+https://flexboxfroggy.com/
+oyunu oyna

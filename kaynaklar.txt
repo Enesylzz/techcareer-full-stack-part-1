@@ -1,0 +1,11 @@
+css selectors
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+
+Adem İlter Box Model Video
+https://www.youtube.com/watch?v=dTUtsy54eP0
+
+
+flex kaynaklar
+https://www.w3schools.com/css/css3_flexbox.asp
+
